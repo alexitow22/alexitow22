@@ -54,6 +54,3 @@ Ubicación: Madrid, España
 | 🎓 **T.S. Desarrollo de Aplicaciones Web (DAW)** | **IES Tetuán de las Victorias** | 2024 - 2026 | APIs REST con Spring Boot, PHP, TypeScript, SQL y Nginx. Titulación Oficial. | 
 | 🏫 **Bachillerato de Ciencias** | **IES Rey Pastor Madrid** | 2021 - 2023 | Orientación Tecnológica y Ciencias Científico-Técnicas. | 
 
-## 📸 Galería Visual & Proyectos en Destacado
- 
-## 📊 Estadísticas de GitHub

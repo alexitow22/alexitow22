@@ -15,8 +15,12 @@ $ fetch --user "afernandezinclan"
 
 ```
 
-## 🛠️ Stack Tecnológico & Ecosistema
 
+### 🐾 Proyecto Destacado de DAW
+Aplicación web integral orientada al sector de la gestión y cuidado de mascotas.
+
+- **Repositorio oficial:** 🔗 [Acceder a SanityPet en GitHub](https://github.com/Ddcq04/SanityPet)
+- **Arquitectura:** Desarrollado bajo un enfoque robusto de servicios web, gestión de bases de datos relacionales y control de lógica de negocio en el backend.
 ### 🧰 Desglose de Competencias
 
 | Categoria | Tecnologías | 
@@ -46,10 +50,10 @@ Ubicación: Madrid, España
 
 | Titulación / Especialización | Centro Educativo | Periodo | Puntos Clave | 
 | ----- | ----- | ----- | ----- | 
-| 🚀 **Curso Full Stack C# (500h)** | **Tajamar Madrid** | Sep 2026 - Act. | C#, ASP.NET Core MVC, Angular, DevOps & Docker. Titulación Oficial CAM. | 
+| 🚀 **Curso Full Stack C#** | **Tajamar Madrid** | Sep 2026 - Act. | C#, ASP.NET Core MVC, Angular, DevOps & Docker. Titulación Oficial CAM. | 
 | 🎓 **T.S. Desarrollo de Aplicaciones Web (DAW)** | **IES Tetuán de las Victorias** | 2024 - 2026 | APIs REST con Spring Boot, PHP, TypeScript, SQL y Nginx. Titulación Oficial. | 
 | 🏫 **Bachillerato de Ciencias** | **IES Rey Pastor Madrid** | 2021 - 2023 | Orientación Tecnológica y Ciencias Científico-Técnicas. | 
 
 ## 📸 Galería Visual & Proyectos en Destacado
-
+ 
 ## 📊 Estadísticas de GitHub

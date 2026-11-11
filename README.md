@@ -19,9 +19,9 @@ Spring Boot.
 
 ##  Estudios
 * **Técníco Superior en Desarrollo de Aplicaciones Web**
-     * Titulación oficial: Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**.
+     * Titulación oficial: Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
 
-     * *Desarrollo Backend con Java y Spring Boot, creación de APIs REST y servicios web**.
+     * *Desarrollo Backend con Java y Spring Boot, creación de APIs REST y servicios web.
 
 
 * **Bachillerato de Ciencias**
